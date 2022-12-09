@@ -1,0 +1,11 @@
+Prueba 1
+Maquinas: 5
+No. Transacciones 5
+
+Prueba 2
+Maquinas: 100
+No. Transacciones 14
+
+Prueba 3
+Maquinas: 500
+No. Transacciones 20
